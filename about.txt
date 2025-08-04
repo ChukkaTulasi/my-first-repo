@@ -1,0 +1,6 @@
+name : Chukka Tulasi
+course : 3rd  BCA (Bchilor of computer applications)
+
+learned : in my first of my hackaton i learn github
+          how to sign up in github and signin  and creating new repository and creating and uploading of the files in the repository
+          
